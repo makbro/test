@@ -26,7 +26,7 @@ function Todo() {
 
   return (
     <div>
-      <h1>To-Do App</h1>
+      <h1>To-Do App2</h1>
       <TodoInput addTask={addTask} />
       <TodoList tasks={tasks} toggleTask={toggleTask} deleteTask={deleteTask} />
     </div>
